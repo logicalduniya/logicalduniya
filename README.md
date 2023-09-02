@@ -14,7 +14,7 @@ I'm [Amit Upadhyay], the founder of [LogicalDuniya.com](https://www.logicalduniy
 
 🌟 **Let's Code Together**: Whether you're a newbie or a seasoned pro, there's always something new to learn. Let's embark on this coding adventure together!
 
-📬 **Stay in Touch**: Feel free to reach out, collaborate, or just have a tech chat. Connect with us here on GitHub or find us on [LinkedIn/LogicalDuniyaOfficial](https://www.linkedin.com/in/logicalduniyaofficial/) || [Facebook/LogicalDuniyaOfficial](https://www.facebook.com/LogicalDuniyaOfficial/) || [Instagram](https://www.instagram.com/LogicalDuniyaOfficial) || [Twitter/Logical_Duniya](https://twitter.com/Logical_Duniya) || [Instagram/LogicalDuniyaOfficial](https://www.instagram.com/LogicalDuniyaOfficial) !!!
+📬 **Stay in Touch**: Feel free to reach out, collaborate, or just have a tech chat. Connect with us here on GitHub or find us on [LinkedIn / LogicalDuniyaOfficial](https://www.linkedin.com/in/logicalduniyaofficial/) || [Facebook / LogicalDuniyaOfficial](https://www.facebook.com/LogicalDuniyaOfficial/) || [Instagram / LogicalDuniyaOfficial](https://www.instagram.com/LogicalDuniyaOfficial) || [Twitter/Logical_Duniya](https://twitter.com/Logical_Duniya) !!!
 
 Let's code the future together! 🚀✨
 
