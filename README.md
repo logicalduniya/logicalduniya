@@ -1,6 +1,6 @@
 ### Hey there, Logical Coders! 👋
 
-I'm [Amit Upadhyay], the founder of [LogicalDuniya.com](https://www.logicalduniya.com) - Your Ultimate Destination for Programming Magic! ✨
+I'm [Ashwini Upadhyay], the founder of [LogicalDuniya.com](https://www.logicalduniya.com) - Your Ultimate Destination for Programming Magic! ✨
 
 🌐 **Explore the Coding Universe**: Dive into our galaxy of tutorials, coding challenges, Interview cracking pages and insights, carefully crafted to make your coding journey an exhilarating experience.
 
